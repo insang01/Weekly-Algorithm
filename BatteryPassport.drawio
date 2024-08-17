@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1257a543d1cacc4b-43" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;원자재 공급 채널&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="50" y="278" width="713" height="332" as="geometry" />
+          <mxGeometry x="50" y="278" width="680" height="332" as="geometry" />
         </mxCell>
         <mxCell id="ryS_Ylc3e0qEXeQVJmsb-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;재활용&lt;/font&gt;&lt;span style=&quot;font-size: 19px; background-color: initial;&quot;&gt;&amp;nbsp;조직&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="1930" y="880" width="514" height="260" as="geometry" />
