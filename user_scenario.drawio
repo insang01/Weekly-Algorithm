@@ -9,7 +9,7 @@
             <mxPoint x="381" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;verifyMaterials&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-37" vertex="1" connectable="0">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;verifyMaterials&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-37" vertex="1" connectable="0">
           <mxGeometry x="0.1419" y="-1" relative="1" as="geometry">
             <mxPoint x="7" y="-16" as="offset" />
           </mxGeometry>
@@ -19,7 +19,7 @@
             <mxPoint x="380" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;verifyBatteries&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-40" vertex="1" connectable="0">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;verifyBatteries&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-40" vertex="1" connectable="0">
           <mxGeometry x="-0.0882" y="-3" relative="1" as="geometry">
             <mxPoint x="-17" y="25" as="offset" />
           </mxGeometry>
@@ -29,48 +29,48 @@
             <mxRectangle x="22" y="-435" width="145" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;원자재 공급업체&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;원자재 공급업체&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="256" y="42" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Factory_industry_mill_power_plant_production_unit-128.png" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="263" y="47" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;검증 업체&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;검증 업체&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="558" y="199" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.shield2;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="558" y="204" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;재활용 업체&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;재활용 업체&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="272" y="627" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-duotone-vol-3/256/recycle-duotone-128.png" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="278" y="632" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;배터리 분석업체&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;배터리 분석업체&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="423" y="468" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/geosm-e-commerce/48/logs-2-128.png" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="428" y="471" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;setRecycleAvailability&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
-          <mxGeometry x="432.5" y="527" width="181" height="32" as="geometry" />
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;setRecycleAvailability&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+          <mxGeometry x="425.5" y="527" width="196" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;정비 업체&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;정비 업체&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="148" y="468" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/maintenance-128.png" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="155" y="476" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;addMaintenanceLog&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
-          <mxGeometry x="141.5" y="525" width="163" height="31" as="geometry" />
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;addMaintenanceLog&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+          <mxGeometry x="136.5" y="525" width="173" height="31" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="p_-nyIwOdOY0o2xYQ9De-45" source="p_-nyIwOdOY0o2xYQ9De-7" target="p_-nyIwOdOY0o2xYQ9De-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="446" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y_Eu_Wxmn9HbcLYpdsyG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;requestAnalysis&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-24" vertex="1" connectable="0">
+        <mxCell id="y_Eu_Wxmn9HbcLYpdsyG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;requestAnalysis&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-24" vertex="1" connectable="0">
           <mxGeometry x="-0.2312" y="1" relative="1" as="geometry">
             <mxPoint x="24" y="4" as="offset" />
           </mxGeometry>
@@ -78,18 +78,18 @@
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="p_-nyIwOdOY0o2xYQ9De-45" source="p_-nyIwOdOY0o2xYQ9De-7" target="p_-nyIwOdOY0o2xYQ9De-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;requestMaintenance&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-23" vertex="1" connectable="0">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;requestMaintenance&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0252" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;전기차 제조업체&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;전기차 제조업체&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="256" y="348" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/electric_car_eco_car_electric_automobile_electric_powered_car_electric_vehicle-128.png" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="263" y="353" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;배터리 제조업체&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;배터리 제조업체&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=3;" parent="p_-nyIwOdOY0o2xYQ9De-45" vertex="1">
           <mxGeometry x="256" y="199" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="p_-nyIwOdOY0o2xYQ9De-45" source="p_-nyIwOdOY0o2xYQ9De-10" target="p_-nyIwOdOY0o2xYQ9De-6" edge="1">
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;extractMaterials&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-35" vertex="1" connectable="0">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;extractMaterials&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-35" vertex="1" connectable="0">
           <mxGeometry x="0.6066" y="-16" relative="1" as="geometry">
             <mxPoint x="52" y="-46" as="offset" />
           </mxGeometry>
@@ -110,7 +110,7 @@
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="p_-nyIwOdOY0o2xYQ9De-45" source="p_-nyIwOdOY0o2xYQ9De-6" target="p_-nyIwOdOY0o2xYQ9De-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;createBattery&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-21" vertex="1" connectable="0">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;createBattery&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-21" vertex="1" connectable="0">
           <mxGeometry x="-0.2769" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
@@ -118,7 +118,7 @@
         <mxCell id="p_-nyIwOdOY0o2xYQ9De-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="p_-nyIwOdOY0o2xYQ9De-45" source="p_-nyIwOdOY0o2xYQ9De-4" target="p_-nyIwOdOY0o2xYQ9De-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_-nyIwOdOY0o2xYQ9De-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;registerRawMaterial&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-18" vertex="1" connectable="0">
+        <mxCell id="p_-nyIwOdOY0o2xYQ9De-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;registerRawMaterial&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="p_-nyIwOdOY0o2xYQ9De-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2456" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-16" as="offset" />
           </mxGeometry>
